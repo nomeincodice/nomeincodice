@@ -1,4 +1,10 @@
+![Header](.header-png)
+
 ## Hi there 👋
+
+I'm currently a student of 42 Florence school.
+
+I'm a Web Developer with some skill. Just one o two 🤣
 
 <!--
 **nomeincodice/nomeincodice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
