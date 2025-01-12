@@ -6,6 +6,8 @@ I'm currently a student of 42 Florence school.
 
 I'm a Web Developer with some skill. Just one o two 🤣
 
+Usually I don't know what I'm doing but it's ok.
+
 <!--
 **nomeincodice/nomeincodice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
