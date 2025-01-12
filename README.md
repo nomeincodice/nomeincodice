@@ -1,4 +1,3 @@
-<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="343" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ## Hi there 👋
 
 <!--
