@@ -1,24 +1,23 @@
 ![Header](./header.png)
 
-## Hi there 👋
+# Hello! 👋 I'm Filippo
 
-I'm currently a student of 42 Florence school.
+I'm a full-time web developer currently living in Florence, Italy.  
+However, I might move somewhere else soon! 🌍
 
-I'm a Web Developer with some skill. Just one o two 🤣
+I'm also a student at **42 Firenze**, an innovative coding school.  
+You can follow my progress by checking out [my repository](https://github.com/nomeincodice).
 
-Usually I don't know what I'm doing but it's ok.
+### 💻 Check out my projects!
+Take a look at all the projects I've developed [here](https://filippociapetti.com).
 
-<!--
-**nomeincodice/nomeincodice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Let's Connect!
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/filippociapettijr)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61551853784269)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filippojuniorciapetti97/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just say hi. 😊
